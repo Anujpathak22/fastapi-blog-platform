@@ -1,3 +1,4 @@
+<img width="904" alt="Screenshot 2023-05-22 210201" src="https://github.com/Anujpathak22/fastapi-blog-platform/assets/84982825/201ba8b2-4c7e-4532-9a20-c71479ff0a0f">
 # CRUD Operations Overview
 
 This project implements a Flask API for performing CRUD (Create, Read, Update, Delete) operations on a blog.
